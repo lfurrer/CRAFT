@@ -1,0 +1,6 @@
+GO:0097617	annealing
+GO:0097617	hybridization
+GO:0030674	bridging
+GO:0046983	dimerization
+GO:0043495	anchor
+GO:0046982	heterodimerization
